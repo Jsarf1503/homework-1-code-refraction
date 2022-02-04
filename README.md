@@ -4,6 +4,7 @@
  fixed a spelling error in the Benefit class
   moved styling from benefit-lead to just benefit 
   added display block, max width and margin to resize and realign the photos
+  Changed text font to white 
   Used visibility hidden to keep the white filler space where the footer was 
   added alt tags to the images in  html
   replace the empty div container with a img tag and applied the class hero within tag
